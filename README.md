@@ -4,7 +4,7 @@
 - 📚 Estou estudando novas tecnologias com a linguagem PHP;
 - 👔 Possuo uma empresa chamado Código Café.
 
-<div align="center">
+<div align="center" style="display: inline-block;">
   <a href="https://github.com/codigocafe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codigocafe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codigocafe&layout=compact&langs_count=7&theme=dracula"/>
