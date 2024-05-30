@@ -3,12 +3,6 @@
 - 💻 Hoje trabalho como analista e desenvolvedor de sistema na Magna Sistemas, utilizando stack de PHP e Javascript;
 - 📚 Estou estudando novas tecnologias com a linguagem Java e universo Javascript;
 
-<div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <a href="https://github.com/codigocafe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codigocafe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codigocafe&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## Trabalho com:
 <div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap">
     <img height="50" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
@@ -36,6 +30,8 @@
     <img height="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img height="40" title="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
     <img height="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img height="90" title="Fastify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original-wordmark.svg" />
+    <img height="90" title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
 
 </div>
 
