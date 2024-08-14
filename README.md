@@ -8,6 +8,7 @@
 ### Back-End
 ![PHP](https://img.shields.io/badge/PHP-7A86B8?style=plastic&logo=PHP&logoColor=FFF&labelColor=gray)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=FFF&labelColor=gray)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=plastic&logo=woo&logoColor=FFF&labelColor=gray)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=FFF&labelColor=gray)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=FFF&labelColor=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=FFF&labelColor=gray)
@@ -55,7 +56,8 @@
 ### Back-End
 ![Java](https://img.shields.io/badge/Java-F80000?style=plastic&logo=oracle&logoColor=FFF&labelColor=gray)
 ![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=FFF&labelColor=gray)
-![Liferay](https://img.shields.io/badge/Liferay-4285F4?style=plastic&logo=googlecloud&logoColor=FFF&labelColor=gray)
+![Liferay](https://img.shields.io/badge/DXP\/Portal-Liferay-4285F4?style=plastic&logoColor=FFF&labelColor=gray)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=FFF&labelColor=gray)
 
 ### Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=FFF&labelColor=gray)
