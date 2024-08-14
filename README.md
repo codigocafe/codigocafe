@@ -23,6 +23,7 @@
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=plastic&logo=styledcomponents&logoColor=FFF&labelColor=gray)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=FFF&labelColor=gray)
 ![Less](https://img.shields.io/badge/Less-1D365D?style=plastic&logo=less&logoColor=FFF&labelColor=gray)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=FFF&labelColor=gray)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=FFF&labelColor=gray)
@@ -35,6 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=FFF&labelColor=gray)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=FFF&labelColor=gray)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=FFF&labelColor=gray)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=FFF&labelColor=gray)
 
 
 ## Já trabalhei e possuo um bom conhecimento:
@@ -53,6 +55,7 @@
 ### Back-End
 ![Java](https://img.shields.io/badge/Java-F80000?style=plastic&logo=oracle&logoColor=FFF&labelColor=gray)
 ![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=FFF&labelColor=gray)
+![Liferay](https://img.shields.io/badge/Liferay-4285F4?style=plastic&logo=googlecloud&logoColor=FFF&labelColor=gray)
 
 ### Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=FFF&labelColor=gray)
