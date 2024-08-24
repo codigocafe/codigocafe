@@ -58,6 +58,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=FFF&labelColor=gray)
 ![Liferay](https://img.shields.io/badge/DXP\/Portal-Liferay-4285F4?style=plastic&logoColor=FFF&labelColor=gray)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=FFF&labelColor=gray)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=plastic&logo=zod&logoColor=FFF&labelColor=gray)
 
 ### Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=FFF&labelColor=gray)
